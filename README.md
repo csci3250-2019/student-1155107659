@@ -37,3 +37,4 @@ Here is something I like best as a programmer!
   - [ ] Final Draft
 
 ## The screenshot
+![The screenshot](https://github.com/csci3250-2019/student-1155107659/blob/master/screen.png)
